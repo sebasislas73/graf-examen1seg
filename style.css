@@ -1,0 +1,9 @@
+/* Estilos para la imagen */
+#image {
+    transition: all 0.3s ease;
+}
+.svg-img {
+    width: 200px;
+    transition: width 0.3s ease;
+}
+
